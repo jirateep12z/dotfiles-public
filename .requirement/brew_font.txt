@@ -1,0 +1,5 @@
+font-hack-nerd-font
+font-ibm-plex-sans
+font-ibm-plex-sans-jp
+font-ibm-plex-sans-kr 
+font-ibm-plex-sans-thai
